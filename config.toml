@@ -1,4 +1,4 @@
-baseURL = "https://tratn.github.io/"
+baseURL = "https://tratn.github.io"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
